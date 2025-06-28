@@ -66,7 +66,7 @@ Propose upgrades or vote via /docs/dao-voting-process.md
 This repo includes a static public site under /public_site.
 If enabled, access it at:
 
-https://yourusername.github.io/EdenCore-Planetary-Revival/
+https://TheRickyFoster.github.io/EdenCore-Planetary-Revival/
 
 To activate:
 
