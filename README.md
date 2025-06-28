@@ -1,0 +1,3 @@
+# 🌱 EdenCore: Planetary Revival Protocol
+
+EdenCore is a self-deploying, zero-harm planetary recovery system...
